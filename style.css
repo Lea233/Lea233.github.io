@@ -1,0 +1,25 @@
+body {
+	background: grey ;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+
+h1 { 
+	color:#005C3B; 
+	
+}
+
+h2 { 
+	color:#7E0900; 
+}
+
+ul {
+
+	text-align: left;
+}
+
+img {
+
+	width: 300px;
+}
